@@ -1,7 +1,7 @@
 #include "phone.h"
 //ÅÐ¿Õ
 //¿Õ£º1
-//²»¿Õ£º0
+//²»¿Õ£ºwei0
 int isContactEmpty(contact_p c)
 {
     assert(c);

@@ -36,7 +36,7 @@ NODE * load()
             printf("读取失败!文件为空!\n");
             free(p);
         }
-        return(NULL);
+        return (Null);
 
     }
 
